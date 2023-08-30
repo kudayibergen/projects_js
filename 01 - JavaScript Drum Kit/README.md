@@ -22,3 +22,5 @@
    - <kbd>L</kbd> - tink
 
 3. Визуальные эффекты будут отображаться при каждом нажатии клавиши.
+
+![screen](file:///C:/Users/77087/Pictures/Screenshots/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202023-08-30%20143622.png)
