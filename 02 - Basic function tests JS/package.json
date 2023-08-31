@@ -1,0 +1,21 @@
+{
+  "name": "practice_js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ticketRefundTest.js",
+  "directories": {
+    "test": "mocha"
+  },
+  "scripts": {
+    "test": "mocha test/ --timeout 5000",
+    "test2": "mocha test_calories/ --timeout 5000"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.3.8",
+    "chromedriver": "^116.0.0",
+    "mocha": "^10.2.0",
+    "selenium-webdriver": "^4.11.1"
+  }
+}
