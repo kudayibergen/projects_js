@@ -9,13 +9,8 @@
 Создайте локаторы для нахождения элементов на веб-страницах:
 
 - В разделе A: элементы с определенными атрибутами.
-![image](https://github.com/kudayibergen/projects_js/assets/116156826/5bca57cf-0325-4388-9813-0e2c2ab52000)
 - В разделе B: теги <p> с определенными классами.
-
-![image](https://github.com/kudayibergen/projects_js/assets/116156826/a61dd0a3-8b58-471b-96c0-5be6075cde67)
 - В разделе C: элементы вложенных блоков.
-
-![image](https://github.com/kudayibergen/projects_js/assets/116156826/1025f79b-c6ee-4405-93cf-51b4b0f21dfd)
 
 ### Задание 2: Для сайта заказа такси составьте локаторы, в которых: (module6_taxiOrder.js)
 
